@@ -1,6 +1,6 @@
 # noter
 
-> A todo app tracker. 
+> A Vue.js project
 
 ## Build Setup
 
